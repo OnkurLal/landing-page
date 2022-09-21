@@ -1,0 +1,13 @@
+.venueImage{
+    width: 70%;
+    height: 90%;
+}
+.venueInfo{
+    padding-right: 35%;
+}
+.jumbotron{
+    background-image: url("../images/imagePlaceholder.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10% 0%;
+}
